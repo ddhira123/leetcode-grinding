@@ -1,10 +1,3 @@
-<style>
-	.collapsible-h {
-		display: inline; 
-		border-bottom: none !important;
-	}
-</style>
-
 > [Link to Leetcode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)
 
 > Difficulty : <strong style="color: green">Easy</strong>
@@ -76,7 +69,7 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 
 <br/>
 <details>
-  <summary><h2 class="collapsible-h">Topics</h2>
+  <summary><h2 style="display: inline; border-bottom: none !important;">Topics</h2>
   
   ---
 
@@ -91,7 +84,7 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 
 <br/>
 <details>
-  <summary><h2 class="collapsible-h">Hint 1</h2>
+  <summary><h2 style="display: inline; border-bottom: none !important;">Hint 1</h2>
   
   ---
 
@@ -102,7 +95,7 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 
 <br/>
 <details>
-  <summary><h2 class="collapsible-h">Hint 2</h2>
+  <summary><h2 style="display: inline; border-bottom: none !important;">Hint 2</h2>
   
   ---
 
@@ -113,7 +106,7 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 
 <br/>
 <details>
-  <summary><h2 class="collapsible-h">Hint 3</h2>
+  <summary><h2 style="display: inline; border-bottom: none !important;">Hint 3</h2>
   
   ---
 
