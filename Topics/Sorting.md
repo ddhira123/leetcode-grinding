@@ -13,8 +13,8 @@ Here are the problemsets that has *Sorting* topic, classified by their Difficult
   ---
 
   </summary>
-  
-- [Minimum Cost of Buying Candies With Discount](../Problemsets/2144. Minimum Cost of Buying Candies With Discount)
+
+- <a href="../Problemsets/2144. Minimum Cost of Buying Candies With Discount">Minimum Cost of Buying Candies With Discount</a>
   
 </details>
 
