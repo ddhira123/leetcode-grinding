@@ -1,3 +1,14 @@
+<style>
+	.collapsible-h {
+		display: inline; 
+		border-bottom: none !important;
+	}
+</style>
+
+> [Link to Leetcode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)
+
+> Difficulty : <strong style="color: green">Easy</strong>
+
 
 ## Overview
 
@@ -61,3 +72,52 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 	<li><code>1 &lt;= cost.length &lt;= 100</code></li>
 	<li><code>1 &lt;= cost[i] &lt;= 100</code></li>
 </ul>
+
+
+<br/>
+<details>
+  <summary><h2 class="collapsible-h">Topics</h2>
+  
+  ---
+
+  </summary>
+
+  - Array
+  - Greedy
+  - Sorting
+  
+</details>
+
+
+<br/>
+<details>
+  <summary><h2 class="collapsible-h">Hint 1</h2>
+  
+  ---
+
+  </summary>
+
+  If we consider costs from high to low, what is the maximum cost of a single candy that we can get for free?
+</details>
+
+<br/>
+<details>
+  <summary><h2 class="collapsible-h">Hint 2</h2>
+  
+  ---
+
+  </summary>
+
+  How can we generalize this approach to maximize the costs of the candies we get for free?
+</details>
+
+<br/>
+<details>
+  <summary><h2 class="collapsible-h">Hint 3</h2>
+  
+  ---
+
+  </summary>
+
+  Can “sorting” the array help us find the minimum cost?
+</details>
