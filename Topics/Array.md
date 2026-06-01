@@ -1,10 +1,3 @@
-<style>
-	.collapsible-h {
-		display: inline; 
-		border-bottom: none !important;
-	}
-</style>
-
 Here are the problemsets that has *Array* topic, classified by their Difficulty levels.
 
 <details>
