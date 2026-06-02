@@ -1,0 +1,4 @@
+landStartTime = [2,8]
+landDuration = [4,1]
+waterStartTime = [6]
+waterDuration = [3]
