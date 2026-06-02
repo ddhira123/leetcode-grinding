@@ -1,4 +1,4 @@
-> [Link to Leetcode](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)
+> [Link to Leetcode](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
 
 > Difficulty : <strong style="color: green">Easy</strong>
 
