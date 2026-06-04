@@ -1,4 +1,4 @@
-Here are the problemsets that has *Dynamic Programming* topic, classified by their Difficulty levels.
+Here are the problemsets that has *Math* topic, classified by their Difficulty levels.
 
 <details>
   <summary><h2 style="display: inline; border-bottom: none !important; color: green;">Easy</h2>
@@ -6,7 +6,8 @@ Here are the problemsets that has *Dynamic Programming* topic, classified by the
   ---
 
   </summary>
-  
+<!-- - <a href="../Problemsets"></a> -->
+
 </details>
 
 
@@ -16,8 +17,8 @@ Here are the problemsets that has *Dynamic Programming* topic, classified by the
   ---
 
   </summary>
-  
-  - <a href="../Problemsets/3751. Total Waviness of Numbers in Range I/">Total Waviness of Numbers in Range I</a>
+
+- <a href="../Problemsets/3751. Total Waviness of Numbers in Range I/">Total Waviness of Numbers in Range I</a>
   
 </details>
 
