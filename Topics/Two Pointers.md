@@ -8,7 +8,6 @@ Here are the problemsets that has *Two Pointers* topic, classified by their Diff
   </summary>
 
 - <a href="../Problemsets/3633. Earliest Finish Time for Land and Water Rides I">Earliest Finish Time for Land and Water Rides I</a>
-- <a href="../Problemsets/3635. Earliest Finish Time for Land and Water Rides II">Earliest Finish Time for Land and Water Rides II</a>
 
 </details>
 
@@ -19,6 +18,8 @@ Here are the problemsets that has *Two Pointers* topic, classified by their Diff
   ---
 
   </summary>
+  
+- <a href="../Problemsets/3635. Earliest Finish Time for Land and Water Rides II">Earliest Finish Time for Land and Water Rides II</a>
   
 </details>
 

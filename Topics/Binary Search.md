@@ -6,8 +6,6 @@ Here are the problemsets that has *Binary Search* topic, classified by their Dif
   ---
 
   </summary>
-
-- <a href="../Problemsets/3635. Earliest Finish Time for Land and Water Rides II">Earliest Finish Time for Land and Water Rides II</a>
   
 </details>
 
@@ -18,6 +16,8 @@ Here are the problemsets that has *Binary Search* topic, classified by their Dif
   ---
 
   </summary>
+
+- <a href="../Problemsets/3635. Earliest Finish Time for Land and Water Rides II">Earliest Finish Time for Land and Water Rides II</a>
   
 </details>
 
