@@ -17,6 +17,8 @@ Here are the problemsets that has *Breadth-First Search (BFS)* topic, classified
 
   </summary>
   
+- <a href="../Problemsets/2812. Find the Safest Path in a Grid">Find the Safest Path in a Grid</a>
+  
 </details>
 
 
