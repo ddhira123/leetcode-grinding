@@ -18,6 +18,7 @@ Here are the problemsets that has *Binary Search* topic, classified by their Dif
   </summary>
 
 - <a href="../Problemsets/3635. Earliest Finish Time for Land and Water Rides II">Earliest Finish Time for Land and Water Rides II</a>
+- <a href="../Problemsets/2812. Find the Safest Path in a Grid">Find the Safest Path in a Grid</a>
   
 </details>
 
