@@ -63,5 +63,16 @@ Given a positive integer $n$, return `true` if and only if Alice wins the game o
 
   </summary>
 
-  Given some number of stones, Alice can win if she can force Bob onto a losing state. Use dynamic programming to keep track of winning and losing states.
+  Given some number of stones, Alice can win if she can force Bob onto a losing state. 
+</details>
+
+<br/>
+<details>
+  <summary><h2 style="display: inline; border-bottom: none !important;">Hint 1</h2>
+  
+  ---
+
+  </summary>
+
+ Use dynamic programming to keep track of winning and losing states.
 </details>
