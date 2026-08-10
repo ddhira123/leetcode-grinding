@@ -34,5 +34,5 @@ Here are the problemsets that has *Array* topic, classified by their Difficulty 
   ---
 
   </summary>
-  
+  - <a href="../Problemsets/3620. Network Recovery Pathways">Network Recovery Pathways</a>
 </details>
