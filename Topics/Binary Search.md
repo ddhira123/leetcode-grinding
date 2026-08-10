@@ -30,4 +30,5 @@ Here are the problemsets that has *Binary Search* topic, classified by their Dif
 
   </summary>
   
+  - <a href="../Problemsets/3620. Network Recovery Pathways">Network Recovery Pathways</a>
 </details>

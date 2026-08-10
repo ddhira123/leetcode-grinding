@@ -29,4 +29,6 @@ Here are the problemsets that has *Dynamic Programming* topic, classified by the
 
   </summary>
   
+  - <a href="../Problemsets/3620. Network Recovery Pathways">Network Recovery Pathways</a>
+  - <a href="../Problemsets/1510. Stone Game IV/">Stone Game IV</a>
 </details>

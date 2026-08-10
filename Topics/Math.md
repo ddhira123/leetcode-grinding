@@ -29,5 +29,6 @@ Here are the problemsets that has *Math* topic, classified by their Difficulty l
   ---
 
   </summary>
+- <a href="../Problemsets/1510. Stone Game IV/">Stone Game IV</a>
   
 </details>
