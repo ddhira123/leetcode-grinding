@@ -68,7 +68,7 @@ Given a positive integer $n$, return `true` if and only if Alice wins the game o
 
 <br/>
 <details>
-  <summary><h2 style="display: inline; border-bottom: none !important;">Hint 1</h2>
+  <summary><h2 style="display: inline; border-bottom: none !important;">Hint 2</h2>
   
   ---
 
