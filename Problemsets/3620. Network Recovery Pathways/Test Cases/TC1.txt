@@ -1,0 +1,5 @@
+edges = [[0,1,5],[0,1,0],[1,2,5]]
+online = [true,true,true]
+k = 10
+
+expected output = 5
