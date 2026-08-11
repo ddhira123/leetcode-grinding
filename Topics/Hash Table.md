@@ -9,6 +9,7 @@ Here are the problemsets that has *Hash Table* topic, classified by their Diffic
 <!-- - <a href="../Problemsets"></a> -->
 
 - <a href="../Problemsets/1189. Maximum Number of Balloons/">1189. Maximum Number of Balloons</a>
+- <a href="../Problemsets/2996. Smallest Missing Integer Greater Than Sequential Prefix Sum">Smallest Missing Integer Greater Than Sequential Prefix Sum</a>
 
 </details>
 
